@@ -1,0 +1,9 @@
+const ATTACH_VALUE = 10;
+
+let chosenMaxLife = 100;
+
+adjustHealthBars(chosenMaxLife);
+
+function attackHandler() {}
+
+attackBtn.addEventListener('click',attackHandler);
